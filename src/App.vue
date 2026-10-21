@@ -1,10 +1,11 @@
 
 <script setup>
-import RefAdnReactive from './components/RefAdnReactive.vue'
-
+ 
+import ComputedDemo from './learnskill/ComputedDemo.vue'
 </script>
 
 <template>
-  <RefAdnReactive />
+   
+  <ComputedDemo />  
 
   </template>
